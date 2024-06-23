@@ -1,3 +1,9 @@
 googlesearch-python
 pandas
 google
+Bs4 
+google-auth
+google-auth-httplib2
+googleapis-common-protos
+ 
+ 
